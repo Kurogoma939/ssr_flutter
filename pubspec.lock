@@ -152,6 +152,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.10.0"
+  ssr:
+    dependency: "direct main"
+    description:
+      name: ssr
+      sha256: "57d5db97f2920b5e8740d91e4f5773ead81a8db1ff106f3da1d2e8508cbf1778"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.9"
   stack_trace:
     dependency: transitive
     description:
@@ -210,3 +218,4 @@ packages:
     version: "13.0.0"
 sdks:
   dart: ">=3.3.3 <4.0.0"
+  flutter: ">=1.17.0"
